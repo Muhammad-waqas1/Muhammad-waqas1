@@ -1,4 +1,11 @@
-# 💫 About Me:
+# 💫 About Me:  
+🔍 Passionate about leveraging technology to solve real-world problems, I am a versatile developer and analyst with expertise in:  
+- **Machine Learning**  
+- **Python Development**  
+- **Full Stack Web Development**  
+- **Data Analysis**  
+
+🚀 I love building intelligent systems, creating interactive web applications, and uncovering insights from data. Always eager to learn, innovate, and contribute to meaningful projects.  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-waqas-544b3529a) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22845792) 
