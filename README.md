@@ -10,7 +10,7 @@
 ## 🌐 Socials:
 
 <p>
-<a href="https://linkedin.com/in/muhammad-waqas-544b3529a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-waqas-544b3529a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-waqas-834490377/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-waqas-544b3529a" height="30" width="40" /></a>
 <a href="https://kaggle.com/waqas010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="waqas010" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22845792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22845792" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/waqas_print_404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="waqas_print_404" height="30" width="40" /></a>
